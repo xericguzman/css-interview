@@ -1,13 +1,12 @@
-div { border: blue;
+div {border: blue;
     background-color: dodgerblue;
     box-shadow: 10px 10px 3px dimgray;
     padding: 25px;
 }
-h1 { font: Arial;
+h1 {font: Arial;
 }
-img { border: 50px;
+img {border: 50px;
 }
-li { margin: 10px;
+li {margin: 10px;
     font-style: italic;
-
 }
