@@ -1,5 +1,4 @@
-div {border: blue;
-    background-color: dodgerblue;
+div {border: 4px blue;
     box-shadow: 10px 10px 3px dimgray;
     padding: 25px;
 }
