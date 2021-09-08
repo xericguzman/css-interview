@@ -16,7 +16,7 @@ In this project, you'll add some style to the project you created in `html-inter
   * Add `10px` of margin to each `<li>` element
   * Italicize each `<li>` element
   
-## Extra credit stretch goals
+## Stretch goals
 
 * Add a shadow to each `<div>`
 * Add a background-color to each `<div>`
